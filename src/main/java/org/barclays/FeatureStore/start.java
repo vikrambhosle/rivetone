@@ -14,7 +14,7 @@ public class start {
         SparkConf conf = new SparkConf().setMaster("local").setAppName("Feature Store");
         JavaSparkContext sc = new JavaSparkContext(conf);
         Dataset<Row> featureset = new FeatureStore().getFeatures("Customer Identifier", " Card Reference number", "Business Date" ,"Category ", "Sub Category","Spend Amount" );
-
+        System.out.println("FEATURE SET" ) ;
         System.out.println("FEATURE SET" ) ;
         featureset.show();
 
