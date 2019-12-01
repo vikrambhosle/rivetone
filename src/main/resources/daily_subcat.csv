@@ -1,0 +1,12 @@
+﻿Customer Identifier,Card Reference Number,Business Date,Category  ,Sub Category    ,Spend Amount    
+9001,4234509900,25-11-2019,Entertainment,Cinema,6000
+9001,4234509900,25-11-2019,Entertainment,Subscription,4350
+9001,4234509900,25-11-2019,Travel,Transport,444
+9001,4234509900,25-11-2019,Travel,Hotel,3233
+9001,4234509900,25-11-2019,Travel,Tickets,3543
+9001,4234509900,25-11-2019,Travel,Transport,2355
+33002,6734509900,26-11-2019,Travel,Tickets,76564
+33002,6734509900,26-11-2019,Travel,Transport,4343
+33002,6734509900,26-11-2019,Travel,Hotel,343
+33002,6734509900,26-11-2019,Entertainment,Cinema,566
+33002,6734509900,26-11-2019,Entertainment,Subscription,7855
